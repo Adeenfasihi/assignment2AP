@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">AP</string>
+
+    <string-array name="week">
+        <item> Monday </item>
+        <item> Tuesday </item>
+        <item> Wednesday </item>
+        <item> Thursday </item>
+        <item> Friday </item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item> 0900-1150hrs </item>
+        <item> 1200-1250hrs </item>
+        <item> 1300-1400hrs </item>
+        <item> 1400-1650hrs </item>
+    </string-array>
+
+    <string-array name="MondayD">
+        <item> ARTIFICIAL INTELLIGENCE LAB </item>
+        <item> ADVISORY SESSION </item>
+        <item> Lunch / Prayer Break </item>
+        <item> OPERATING SYSTEMS LAB </item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item> 0900-0950hrs </item>
+        <item> 1000-1050hrs </item>
+        <item> 1100-1150hrs </item>
+        <item> 1200-1250hrs </item>
+        <item> 1300-1400hrs </item>
+        <item> 1400-1550hrs </item>
+        <item> 1600-1650hrs </item>
+    </string-array>
+
+    <string-array name="TuesdayD">
+        <item> SOFTWARE ENGINEERING </item>
+        <item> ADVANCED PROGRAMMING </item>
+        <item> OPERATING SYSTEMS </item>
+        <item> SEMINAR / FREE </item>
+        <item> Lunch / Prayer Break </item>
+        <item> ARTIFICIAL INTELLIGENCE </item>
+        <item> FREE </item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item> 0900-0950hrs </item>
+        <item> 1000-1250hrs </item>
+        <item> 1300-1400hrs </item>
+        <item> 1400-1450hrs </item>
+        <item> 1500-1550hrs </item>
+        <item> 1600-1650hrs </item>
+    </string-array>
+
+    <string-array name="WednesdayD">
+        <item> SOFTWARE ENGINEERING </item>
+        <item> COMPUTER NETWORKS LAB </item>
+        <item> Lunch / Prayer Break </item>
+        <item> FREE</item>
+        <item> OPERATING SYSTEMS </item>
+        <item> FREE </item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item> 0900-0950hrs </item>
+        <item> 1000-1150hrs </item>
+        <item> 1200-1250hrs </item>
+        <item> 1300-1400hrs </item>
+        <item> 1400-1450hrs </item>
+        <item> 1500-1650hrs </item>
+    </string-array>
+
+    <string-array name="ThursdayD">
+        <item> OPERATING SYSTEMS </item>
+        <item> ADVANCED PROGRAMMING </item>
+        <item> SOFTWARE ENGINEERING </item>
+        <item> Lunch / Prayer Break </item>
+        <item> COMPUTER NETWORKS </item>
+        <item> FREE </item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item> 0900-0950hrs </item>
+        <item> 1000-1150hrs </item>
+        <item> 1200-1250hrs </item>
+        <item> 1300-1415hrs </item>
+        <item> 1415-1650hrs </item>
+    </string-array>
+
+    <string-array name="FridayD">
+        <item> FREE </item>
+        <item> COMPUTER NETWORKS </item>
+        <item> ARTIFICIAL INTELLIGENCE </item>
+        <item> Lunch / Prayer Break </item>
+        <item> ADVANCED PROGRAMMING LAB</item>
+    </string-array>
+</resources>
